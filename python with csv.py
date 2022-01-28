@@ -61,3 +61,6 @@ while True:
         update()
     if ch==4:
         delete()
+    if ch==5:
+        print("Thank you, visit us again :D")
+       
